@@ -1,5 +1,4 @@
-<pre>
-<code>
+```json
 {  
   "firstName" : "Alden",  
   "lastName" : "Camdzic",  
@@ -11,5 +10,4 @@
     "databases"  
   ]  
 }
-</code>
-</pre>
+```

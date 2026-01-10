@@ -1,1 +1,1 @@
-<img src="https://github-profile-json.vercel.app/?indent=4&theme=helios&background=false&object={%22firstName%22:%22Alden%22,%22lastName%22:%22Camdzic%22,%22age%22:19,%22skills%22:[%22frontend%22,%22backend%22,%22databases%22]}" />
+<img src="https://github-profile-json.vercel.app/?indent=4&theme=stackoverflow-light&background=false&object={%22firstName%22:%22Alden%22,%22lastName%22:%22Camdzic%22,%22age%22:19,%22skills%22:[%22frontend%22,%22backend%22,%22databases%22]}" />
